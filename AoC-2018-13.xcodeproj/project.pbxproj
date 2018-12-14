@@ -29,7 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		7D48DA0F21C290390059C126 /* adventofcode13 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = adventofcode13; sourceTree = BUILT_PRODUCTS_DIR; };
+		7D48DA0F21C290390059C126 /* AoC-2018-13 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "AoC-2018-13"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D48DA1221C290390059C126 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7D48DA1B21C30F2C0059C126 /* input.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 		7D48DA1D21C328BD0059C126 /* test1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test1.txt; sourceTree = "<group>"; };
@@ -58,7 +58,7 @@
 		7D48DA1021C290390059C126 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7D48DA0F21C290390059C126 /* adventofcode13 */,
+				7D48DA0F21C290390059C126 /* AoC-2018-13 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -77,9 +77,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7D48DA0E21C290390059C126 /* adventofcode13 */ = {
+		7D48DA0E21C290390059C126 /* AoC-2018-13 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7D48DA1621C290390059C126 /* Build configuration list for PBXNativeTarget "adventofcode13" */;
+			buildConfigurationList = 7D48DA1621C290390059C126 /* Build configuration list for PBXNativeTarget "AoC-2018-13" */;
 			buildPhases = (
 				7D48DA0B21C290390059C126 /* Sources */,
 				7D48DA0C21C290390059C126 /* Frameworks */,
@@ -89,9 +89,9 @@
 			);
 			dependencies = (
 			);
-			name = adventofcode13;
+			name = "AoC-2018-13";
 			productName = adventofcode13;
-			productReference = 7D48DA0F21C290390059C126 /* adventofcode13 */;
+			productReference = 7D48DA0F21C290390059C126 /* AoC-2018-13 */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7D48DA0A21C290390059C126 /* Build configuration list for PBXProject "adventofcode13" */;
+			buildConfigurationList = 7D48DA0A21C290390059C126 /* Build configuration list for PBXProject "AoC-2018-13" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7D48DA0E21C290390059C126 /* adventofcode13 */,
+				7D48DA0E21C290390059C126 /* AoC-2018-13 */,
 			);
 		};
 /* End PBXProject section */
@@ -274,7 +274,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7D48DA0A21C290390059C126 /* Build configuration list for PBXProject "adventofcode13" */ = {
+		7D48DA0A21C290390059C126 /* Build configuration list for PBXProject "AoC-2018-13" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7D48DA1421C290390059C126 /* Debug */,
@@ -283,7 +283,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7D48DA1621C290390059C126 /* Build configuration list for PBXNativeTarget "adventofcode13" */ = {
+		7D48DA1621C290390059C126 /* Build configuration list for PBXNativeTarget "AoC-2018-13" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7D48DA1721C290390059C126 /* Debug */,
